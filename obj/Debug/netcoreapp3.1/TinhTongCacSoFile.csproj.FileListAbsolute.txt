@@ -1,0 +1,13 @@
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.exe
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.deps.json
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.runtimeconfig.json
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.runtimeconfig.dev.json
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.dll
+D:\baitap\TinhTongCacSoFile\bin\Debug\netcoreapp3.1\TinhTongCacSoFile.pdb
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.csprojAssemblyReference.cache
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.AssemblyInfoInputs.cache
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.AssemblyInfo.cs
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.csproj.CoreCompileInputs.cache
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.dll
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.pdb
+D:\baitap\TinhTongCacSoFile\obj\Debug\netcoreapp3.1\TinhTongCacSoFile.genruntimeconfig.cache
